@@ -1,0 +1,9 @@
+# Core dependencies for auth_lib_web
+bcrypt>=4.0.0
+psycopg2-binary>=2.9.0
+python-dotenv>=1.0.0
+
+# Development dependencies (optional)
+# pytest>=7.0.0  # For unit testing
+# black>=23.0.0  # For code formatting
+# flake8>=6.0.0  # For code linting
