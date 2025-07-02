@@ -1,0 +1,8 @@
+.env
+*.pyc
+__pycache__/
+.venv
+
+text.txt
+key.key
+main.java
