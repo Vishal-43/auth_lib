@@ -64,6 +64,6 @@ The system manages a `users` table with the following structure:
 ## 📦 Installation
 
 ```bash
-git clone https://github.com/yourusername/auth_lib_web.git
+git clone https://github.com/Vishal-43/auth_lib.git
 cd auth_lib_web
 pip install -r requirements.txt
